@@ -1,2 +1,2 @@
 # calculator
-repository for NHN Git practice
+# repository for NHN Git practice
